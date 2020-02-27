@@ -1,0 +1,14 @@
+[INFO ] 2020-02-27 22:12:47.168 [main] InterestImpl - Enter principle, time and rate of interest
+
+[ERROR] 2020-02-27 22:12:47.170 [main] InterestImpl - hello
+
+[INFO ] 2020-02-27 22:14:42.474 [main] InterestImpl - Enter principle, time and rate of interest
+
+[ERROR] 2020-02-27 22:14:42.477 [main] InterestImpl - hello
+
+[WARN ] 2020-02-27 22:14:42.477 [main] InterestImpl - hi
+
+[INFO ] 2020-02-27 22:15:14.387 [main] InterestImpl - Enter principle, time and rate of interest
+
+[INFO ] 2020-02-27 22:15:35.138 [main] InterestImpl - Simple interest for p:1000.0 t: 2.0 r 10.0 is 200.0
+[INFO ] 2020-02-27 22:15:35.139 [main] InterestImpl - Compound interest for p:1000.0 t: 2.0 r 10.0 is 210.00000000000023
